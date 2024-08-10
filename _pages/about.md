@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "Welcome!"
 author_profile: true
 redirect_from: 
   - /about/
@@ -24,3 +24,5 @@ redirect_from:
 - I am currently researching the effect of bacteria on aggressive prostate cancer and delving into the role of the prostate microbiome in the setting of cancer.
 
 - Outside of science, I have a keen interest in sports - both watching and playing it. I also host a podcast in my mother tongue, Tamil, about Liverpool Football Club. I am also an avid reader and love reading books.
+
+- **You can find my social media links on the left hand side. Please feel free to contact me through email or LinkedIn for any professional correspondence**
