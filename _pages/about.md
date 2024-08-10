@@ -11,8 +11,7 @@ redirect_from:
 
 ## Welcome to my Github page!
 
-<img src="https://github.com/dr-seshadhri/dr-seshadhri.github.io/blob/master/images/Github_pic.JPG" alt="A picture of me in Barcelona" width="450" align="right">
-
+<img src="https://github.com/dr-seshadhri/dr-seshadhri.github.io/blob/master/images/Github_pic.JPG?raw=true" alt="A picture of me in Barcelona" width="450" align="right">
  
 - I'm a 2nd year PhD student at the University of East Anglia, Norwich, United Kingdom
 
