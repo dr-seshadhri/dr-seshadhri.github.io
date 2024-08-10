@@ -7,16 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-## Methionine and tRNA charging pathways are important in bacterial involvement in aggressive prostate cancer
+## This is a test
 
 ### Introduction
 
-- Explain what ABBS bacteria is
-- Explain ARSs and their role in cancer
-- Explain Hoffman effect when it comes to methionine
-
-### Methods
-- PPCG Dataset - 867 tumour samples - 164 ABBS positive and 704 ABBS negative
-- HUMAnN run on them
-- Maaslin2 run on the HUMAnN output
-- 
+I want to see if Obsidian files work
