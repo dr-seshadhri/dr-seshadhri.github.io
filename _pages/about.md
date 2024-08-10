@@ -11,7 +11,8 @@ redirect_from:
 
 ## Welcome to my Github page!
 
-![A picture of me in Barcelona](/images/Github_pic.JPG){: .align-right width = "300px"}
+![A picture of me in Barcelona](/images/Github_pic.JPG){: .align-right 
+width = "300px"}
  
 - I'm a 2nd year PhD student at the University of East Anglia, Norwich, United Kingdom
 
