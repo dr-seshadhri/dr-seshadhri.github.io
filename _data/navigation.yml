@@ -7,16 +7,16 @@ main:
     url: /talks/    
 
   - title: "Projects and Publications"
-    url: /teaching/    
+    url: /projects-publications/    
     
   - title: "Portfolio"
     url: /portfolio/
         
   - title: "About Me"
-    url: /year-archive/
+    url: /about-me/
     
   - title: "Resume"
     url: /cv/
     
   - title: "Outside Interests"
-    url: /markdown/
+    url: /outside-interests/
