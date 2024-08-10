@@ -11,8 +11,8 @@ redirect_from:
 
 ## Welcome to my Github page!
 
-![A picture of me in Vienna](/images/Github_pic.JPG){: .align-right width="300px"}
- 
+<img src = "https://github.com/dr-seshadhri/dr-seshadhri.github.io/blob/master/images/Github_pic.JPG" align = "right" width="450">
+
 - I'm a 2nd year PhD student at the University of East Anglia, Norwich, United Kingdom
 
 - My research interests are broadly in the field of cancer - specifically interested in projects related to early detection and prognostic analysis of cancers through various methods including epigenetic modifications, microbial involvement and more
