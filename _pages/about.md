@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+<img src = "https://github.com/dr-seshadhri/dr-seshadhri.github.io/blob/master/assets/Github_pic.JPG" align = "right" width = "450">
+
 # Hi There, Seshadhri Here! - Still Under Construction
 
 ## Welcome to my Github page!
