@@ -8,9 +8,9 @@ main:
 
   - title: "Projects and Publications"
     url: /projects-publications/    
+
+  - title: "Hobbies & Interests"
+    url: /hobbies-interests/
         
   - title: "About Me"
     url: /about-me/
-    
-  - title: "Hobbies & Interests"
-    url: /hobbies-interests/
