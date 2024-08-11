@@ -6,7 +6,7 @@ excerpt:
 date: 2019-11-07
 venue: 'Journal of Stem Cells Research, Development and Therapy'
 slidesurl: 
-paperurl: '[Link to Paper](https://www.heraldopenaccess.us/openaccess/human-prostate-stem-cells-and-their-niche-a-comprehensive-review)'
+paperurl: 
 citation: 'Subramanian S, Geraghty R, Hepburn AC, Wilson L, Heer R (2019) Human Prostate Stem Cells and Their Niche - A Comprehensive Review. J Stem Cell Res Dev Ther 5: 020.'
 ---
 
