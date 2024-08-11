@@ -1,13 +1,31 @@
 ---
-title: "Paper Title Number 1"
+title: "Human Prostate Stem Cells and Their Niche - A Comprehensive Review"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/subramanian_geraghty_2019
+excerpt: 'This review summarises the current evidence for prostate stem cells and their niche in both the murine and human models.'
+date: 2019-11-07
+venue: 'Journal of Stem Cells Research, Development and Therapy'
+slidesurl: 
+paperurl: '[Link to Paper](https://www.heraldopenaccess.us/openaccess/human-prostate-stem-cells-and-their-niche-a-comprehensive-review)'
+citation: 'Subramanian S, Geraghty R, Hepburn AC, Wilson L, Heer R (2019) Human Prostate Stem Cells and Their Niche - A Comprehensive Review. J Stem Cell Res Dev Ther 5: 020.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+**Abstract**
+
+Several recent major findings in the field of adult prostate stem cells have advanced our understanding of the cell biology. Earlier seminal studies in the murine prostate demonstrated and defined the cell biology and dynamics. However, it remained unclear how these findings correlated to the human prostate stem cell until very recently. The location and dynamics of the human adult prostate stem cell niche have now been identified. This has implications for further research into the origins of benign prostatic hypertrophy and prostate cancer. This review summarises the current evidence for prostate stem cells and their niche in both the murine and human models.
+
+**Keywords**
+
+Adult stem cell; Niche; Progenitor; Prostate; Stem cell
+
+**PDF Download Link**
+
+[Download Paper Here](https://www.heraldopenaccess.us/article_pdf/64/human-prostate-stem-cells-and-their-niche-a-comprehensive-review.pdf)
+
+**Recommended Citation**
+
+Subramanian S, Geraghty R, Hepburn AC, Wilson L, Heer R (2019) Human Prostate Stem Cells and Their Niche - A Comprehensive Review. J Stem Cell Res Dev Ther 5: 020.
+
+**Copyright**
+
+© 2019  Seshadhri Subramanian, et al. This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.
