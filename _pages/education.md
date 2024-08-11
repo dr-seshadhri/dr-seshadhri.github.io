@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-![Welcome](/images/resume_header.png)
+![Welcome](/images/education_header.png)
 
 
 # Post-Graduate Education
