@@ -42,3 +42,14 @@ redirect_from:
 - Previously was a regular contributor to The Courier - Newcastle University's student newspaper having written for the Sports, Current Affairs and Science sections predominantly
 - I have previously hosted multiple shows on Newcastle Student Radio and have also hosted multiple podcasts in English.
 - I have also made social media posts from time to time for various clubs and societies I was involved in.
+
+## Side Projects
+
+- I am currently working on analysing publicly available football data from fbref.com to come up with a better player evaluation system in the game of football (soccer)
+- I also write in my spare time and have some writing projects ongoing
+
+## Hobbies
+
+- I love to travel and have either lived in or visited more than 12 countries
+- I am an avid reader and love to write as well
+- I am also very heavily interested in sports analytics and like reading about the developments in different sports
