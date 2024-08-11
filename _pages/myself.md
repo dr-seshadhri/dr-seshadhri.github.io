@@ -1,4 +1,5 @@
 ---
+layout: archive
 permalink: /myself/
 title:
 author_profile: true
