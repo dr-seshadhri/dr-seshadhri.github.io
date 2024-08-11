@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /myself/
-title:
+title: About Myself
 author_profile: true
 redirect_from: 
   - /myself/
