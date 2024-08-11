@@ -26,7 +26,8 @@ redirect_from:
 3. Was one of three sub-editors of the Science Section of The Courier - Newcastle University's student newspaper in 2019-20. The section went on to win Best Science Publication in the United Kingdom and Ireland at the Student Publishing Association Awards in 2020
 4. Was elected as the Magazine Secretary for the Students’ Executive Committee 2015-16 at St. John’s Medical College and was the founder-editor of “The Case Sheet” – a fortnightly magazine run by students in the college.
 5. As part of my post on the committee, I also founded and organised the first-ever undergraduate medical conference at St. John’s Medical College in the year 2015 called “De Novo”
-6. Was elected as the head boy for the year 2005-06 at Oshwal Jain Primary School, Nairobi, Kenya
+6. Was part of the University Hockey team (state level) and was selected to play in the All-India South Zone Inter-University Hockey Tournament in 2013
+7. Was elected as the head boy for the year 2005-06 at Oshwal Jain Primary School, Nairobi, Kenya
 
 ## Language Skills
 
