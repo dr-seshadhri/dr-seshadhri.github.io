@@ -51,5 +51,6 @@ redirect_from:
 ## Hobbies
 
 - I love to travel and have either lived in or visited more than 12 countries
+- I love to cook and I am a big fan of experimenting with different cuisines
 - I am an avid reader and love to write as well
 - I am also very heavily interested in sports analytics and like reading about the developments in different sports
