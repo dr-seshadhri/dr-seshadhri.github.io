@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Publications"
-permalink: /publications/
+title: 
+permalink: /projects-publications/
 author_profile: true
 ---
 
@@ -10,6 +10,8 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
+
+![Welcome](/images/publications_header.png)
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
