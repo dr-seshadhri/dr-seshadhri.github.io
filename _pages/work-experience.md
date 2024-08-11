@@ -19,17 +19,16 @@ author_profile: true
 - Learnt about the workings of a biotechnological company and specifically how an idea is transformed into a commercial product and all the processes involved in that
 - Gained exposure to research in an industrial setting and the differences in requirement between my PhD and that
 
-
 # Paid Work
 
 ## University of East Anglia, United Kingdom
-
 ### Associate Tutor, April 2024-May 2024
 
 - Was involved in the planning and demonstration of three sessions on beginner level R programming to students at the University of East Anglia
 - These involved helping prepare carefully tailored presentations for the sessions
 - It also involved writing and testing out solutions to the different R exercises as part of the presentations
 - The role also involved problem solving on the day helping students with any questions they may have on the subject as well as helping them with any technical difficulties they may have.
+
 ## St. John's Medical College Hospital, India
 ### Resident Intern, March 2017 - March 2018
 
