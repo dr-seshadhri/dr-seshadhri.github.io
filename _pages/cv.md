@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+![Welcome](/images/resume_header.png)
+
+
 # Post-Graduate Education
 
 ## Doctorate in Philosophy (PhD)
