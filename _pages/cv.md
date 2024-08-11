@@ -49,3 +49,11 @@ redirect_from:
 	1. Conducted a **retrospective chart review study** at a primary health centre to assess outcome of antenatal care in areas serviced by the hospital and evaluate the need to improve healthcare during pregnancy
 	2. Conducted a project with the Department of Pathology at St. John's Medical College to investigate the prevalence of Anaplastic Lymphoma Kinase-1 receptors in lung cancer patints at a tertiary care hospital in South India.
 	3. Learnt basic statistical analysis and application using SPSS software.
+
+# High School Education
+
+## All-India Secondary School Certificate Examination, 2012
+
+- 91% aggregate in Chemistry, Physics, Biology, Mathematics and English (equivalent to A-levels)
+- **Relevant Research Experience**:
+	- Conducted a four-week study looking at the impact of nanogold on the accuracy and speed of Polymerase chain reactions (PCR) at SASTRA University and the Indian Institute of Technology (Madras) as part of the Research Science Initiative Chennai, 2011. 
