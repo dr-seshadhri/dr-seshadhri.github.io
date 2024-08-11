@@ -1,7 +1,7 @@
 ---
 title: "Human Prostate Stem Cells and Their Niche - A Comprehensive Review"
 collection: publications
-permalink: /projects-publications/subramanian_geraghty_2019
+permalink: /projects-publications/subramanian-geraghty-2019
 excerpt: 
 date: 2019-11-07
 venue: 'Journal of Stem Cells Research, Development and Therapy'
