@@ -7,10 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-# Hi There, Seshadhri Here! - Still Under Construction
-
-## Welcome to my Github page!
-
 ![Welcome](/images/Welcome.png)
 - I'm a 2nd year PhD student at the University of East Anglia, Norwich, United Kingdom
 
