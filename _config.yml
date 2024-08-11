@@ -21,7 +21,7 @@ repository               : "dr-seshadhri/dr-seshadhri.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Github_profilepic.png"
+  avatar           : "/images/Github_profilepic.png"
   name             : "Seshadhri Subramanian"
   pronouns         : "He/Him"  
   bio              : "MBBS, MD. Current PhD researcher with the Brewer Group at the University of East Anglia as part of the Microbes, Microbiomes and Bioinformatics DTP"
