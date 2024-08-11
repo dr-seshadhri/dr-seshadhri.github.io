@@ -3,7 +3,7 @@ permalink: /
 title:
 author_profile: true
 redirect_from: 
-  - /about-myself/
+  - /myself/
 ---
 
 ![Welcome](/images/about_me_header.png)
