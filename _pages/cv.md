@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+<img src = "https://github.com/dr-seshadhri/dr-seshadhri.github.io/blob/master/images/Github_pic.JPG">
 
 Education
 ======
