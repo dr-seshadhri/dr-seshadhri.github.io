@@ -10,7 +10,7 @@ redirect_from:
 ![Welcome](/images/Welcome.png)
 - I'm a 2nd year PhD student at the University of East Anglia, Norwich, United Kingdom
 
-- My research interests are broadly in the field of cancer - specifically interested in projects related to early detection and prognostic analysis of cancers through various methods including epigenetic modifications, microbial involvement and more
+- My research interests are broadly in the field of cancer - specifically interested in projects related to early detection and prognostic analysis of cancers through various methods including epigenetic modifications, microbial involvement and more using both bioinformatics methods and lab-based techniques
 
 - I am currently part of the Cancer Genetics Lab at UEA under Prof. Daniel Brewer and Prof. Colin Cooper
 
