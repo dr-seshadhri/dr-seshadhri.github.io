@@ -11,7 +11,7 @@ redirect_from:
 
 ## Welcome to my Github page!
 
-![Me in Barcelona](/images/Github_pic.JPG){:. align-right width="300px"}
+![Welcome](/images/Welcome.png)
 - I'm a 2nd year PhD student at the University of East Anglia, Norwich, United Kingdom
 
 - My research interests are broadly in the field of cancer - specifically interested in projects related to early detection and prognostic analysis of cancers through various methods including epigenetic modifications, microbial involvement and more
