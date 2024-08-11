@@ -13,6 +13,6 @@ author_profile: true
 
 ![Welcome](/images/publications_header.png)
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+## 2019
+
+1. Subramanian S, Geraghty R, Hepburn AC, Wilson L, Heer R (2019) Human Prostate Stem Cells and Their Niche - A Comprehensive Review. J Stem Cell Res Dev Ther 5: 020. [Link to Paper Details](/projects-publications/subramanian-geraghty-2019)
