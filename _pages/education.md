@@ -28,7 +28,7 @@ redirect_from:
 ## Doctorate in Medicine (MD in Translational and Clinical Research)
 ### Newcastle University, United Kingdom (2018-2022)
 
-- **Did a three-year lab project ending with a thesis entitled "Characterising the Architecture of the Stem Cell Niche in Benign Prostatic Tissue"
+- **Did a three-year lab project ending with a thesis entitled "Characterising the Architecture of the Stem Cell Niche in Benign Prostatic Tissue"**
 - It was a lab-based project in which I acquired the following skills
 	1. Designing and conducting practical experiments using **immunohistochemistry-based techniques** such as the standard DAB-IHC, multiplex immunohistochemistry, immunofluorescence as well as immunohistochemistry using specialised kits (Opal kit)
 	2. Methodically learnt to problem solve during the design and conduct of those experiments
