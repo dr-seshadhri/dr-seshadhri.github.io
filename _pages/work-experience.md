@@ -22,7 +22,7 @@ author_profile: true
 # Paid Work
 
 ## University of East Anglia, United Kingdom
-### Associate Tutor, April 2024-May 2024
+### Associate Tutor, April 2024-Current
 
 - Was involved in the planning and demonstration of three sessions on beginner level R programming to students at the University of East Anglia
 - These involved helping prepare carefully tailored presentations for the sessions
