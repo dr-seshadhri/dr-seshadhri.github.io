@@ -14,8 +14,9 @@ author_profile: true
 ![Welcome](/images/publications_header.png)
 
 ## 2025
-1. Poster and Abstract Publication: European Association for Cancer Research 2025, Lisbon, Portugal [Link to Abstract](/projects-publications/Molecular_Oncology_2025_Abstracts.pdf) Citation: Abstracts submitted to the EACR 2025 Congress: Innovative Cancer Science?, from 16-19 June 2025 and accepted by the Congress Organising Committee are published in this Supplement of Molecular Oncology, an affiliated journal of the European Association for Cancer Research (EACR).
-3. 10-minute Talk Abstract - Faculty of Medicine and Health - Metabolic Health Postgraduate Research Conference 2025 [Link to Abstract](/projects-publications/MH_PGR_2025.md)
+1. Poster and Abstract Publication: European Association for Cancer Research 2025, Lisbon, Portugal 
+Citation: Abstracts submitted to the EACR 2025 Congress: Innovative Cancer Science?, from 16-19 June 2025 and accepted by the Congress Organising Committee are published in this Supplement of Molecular Oncology, an affiliated journal of the European Association for Cancer Research (EACR). [Link to Molecular Oncology Supplement with Abstracts](/projects-publications/Molecular_Oncology_2025_Abstracts.pdf)
+2. 10-minute Talk Abstract - Faculty of Medicine and Health - Metabolic Health Postgraduate Research Conference 2025 [Link to Abstract](/projects-publications/MH_PGR_2025.md)
 
 ## 2024
 1. Poster and Abstract Publication: Norwich Cancer Research Network Symposium - tRNA Charging and Methionine: Exploring bacterial metabolic mechanisms in Prostate Cancer [Link to Abstract](/projects-publications/ncrn_symposium_2024.md)
