@@ -20,14 +20,19 @@ author_profile: true
 - Gained exposure to research in an industrial setting and the differences in requirement between my PhD and that
 
 # Paid Work
-
 ## University of East Anglia, United Kingdom
 ### Associate Tutor, April 2024-Current
 
-- Was involved in the planning and demonstration of three sessions on beginner level R programming to students at the University of East Anglia
-- These involved helping prepare carefully tailored presentations for the sessions
+- Was involved in the planning and demonstration of beginner level seminars on R programming to students at the University of East Anglia across multiple faculties - Humanities, Science, Social Sciences, and Medicine
+- These involved helping prepare carefully tailored presentations for the sessions with teaching adapted to their personal ability to code.
 - It also involved writing and testing out solutions to the different R exercises as part of the presentations
 - The role also involved problem solving on the day helping students with any questions they may have on the subject as well as helping them with any technical difficulties they may have.
+
+### Problem-Based Learning (PBL) Facilitator for Year 1 MBBS students
+
+- Work as the Problem-Based Learning facilitator for Year 1 Bachelor of Medicine and Bachelor of Surgery (MBBS) students.
+- I help in the discussion of clinical cases and fulfilling of learning objectives on a week by week basis so that the students can be prepared for their upcoming week of lectures as well as brush up on what has been done the previous week.
+- My clinical experience comes in very handy in this aspect
 
 ## St. John's Medical College Hospital, India
 ### Resident Intern, March 2017 - March 2018
